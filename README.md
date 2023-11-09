@@ -28,6 +28,8 @@ Execute the program using runserver command.
 <html>
    <title>title</title>
        <body>
+       <h3>Name:Haripriya k</h3>
+       <h3>ref. num : 23014012</h3>
         <center>
             <img src="/static/logo.png" height="100" width="540" >
           <table border="6" cellspacing="4" cellpadding="4">
@@ -139,13 +141,13 @@ Execute the program using runserver command.
 
           </table>    
       </body>
+
 </html>
 ```
 
 
 ## OUTPUT
-![Screenshot 2023-11-08 090528](https://github.com/Haripriya132006/slot/assets/144870747/594deedb-4b17-4542-b2b4-12d1bee8620a)
-![Screenshot 2023-11-08 090554](https://github.com/Haripriya132006/slot/assets/144870747/803cec8a-cb08-439c-868f-eb5202bf6dfe)
+![Screenshot 2023-11-09 125014](https://github.com/Haripriya132006/slot/assets/144870747/4c76fb5d-48ba-4caa-94b5-884553c1bb64)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
